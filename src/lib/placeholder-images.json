@@ -1,0 +1,17 @@
+{
+  "placeholderImages": [
+    { "id": "user-avatar-1", "description": "Avatar for Alex Turner", "imageUrl": "https://picsum.photos/seed/user1/100/100", "imageHint": "man portrait" },
+    { "id": "user-avatar-2", "description": "Avatar for Sarah Chen", "imageUrl": "https://picsum.photos/seed/user2/100/100", "imageHint": "woman portrait" },
+    { "id": "user-avatar-3", "description": "Avatar for Mike Davis", "imageUrl": "https://picsum.photos/seed/user3/100/100", "imageHint": "man glasses" },
+    { "id": "user-avatar-4", "description": "Avatar for Emily White", "imageUrl": "https://picsum.photos/seed/user4/100/100", "imageHint": "woman smile" },
+    { "id": "challenge-bg-1", "description": "Background for meditation challenge", "imageUrl": "https://picsum.photos/seed/challenge1/600/400", "imageHint": "meditation sunset" },
+    { "id": "challenge-bg-2", "description": "Background for fitness challenge", "imageUrl": "https://picsum.photos/seed/challenge2/600/400", "imageHint": "running shoes" },
+    { "id": "challenge-bg-3", "description": "Background for mindful eating challenge", "imageUrl": "https://picsum.photos/seed/challenge3/600/400", "imageHint": "healthy food" },
+    { "id": "pod-bg-1", "description": "Background for mindfulness pod", "imageUrl": "https://picsum.photos/seed/pod1/600/400", "imageHint": "zen garden" },
+    { "id": "pod-bg-2", "description": "Background for fitness pod", "imageUrl": "https://picsum.photos/seed/pod2/600/400", "imageHint": "gym equipment" },
+    { "id": "pod-bg-3", "description": "Background for creative pod", "imageUrl": "https://picsum.photos/seed/pod3/600/400", "imageHint": "art supplies" },
+    { "id": "pod-bg-4", "description": "Background for stoic pod", "imageUrl": "https://picsum.photos/seed/pod4/600/400", "imageHint": "greek statue" },
+    { "id": "hexagon-badge-bg", "description": "Abstract background for hexagon badge", "imageUrl": "https://picsum.photos/seed/hexbg/200/200", "imageHint": "abstract gradient" },
+    { "id": "hero-new", "description": "Hero image for the landing page", "imageUrl": "https://picsum.photos/seed/hero-new/1200/800", "imageHint": "wellness meditation" }
+  ]
+}
