@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  a
 # mindX Agent: Your AI-Powered Wellness Companion
 
@@ -145,3 +146,7 @@ The application uses `genkit` for AI flows, which runs as a separate development
     ```
     The application will be available at `http://localhost:9002`.
 
+=======
+# my-projects
+A collection of my personal and academic projects.
+>>>>>>> 59f39ac609893392fe734fa096ea971b6139e023
